@@ -1,5 +1,5 @@
 # Rupeswarbhains777
-<h1 align="center">Hi 👋, I'm Rupeswae</h1>
+<h1 align="center">Hi 👋, I'm  Rupeswar</h1>
 
 Hi there! I'm a passionate developer with expertise in both front-end and back-end technologies. My skill set includes:
 
