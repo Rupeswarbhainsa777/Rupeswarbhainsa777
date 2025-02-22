@@ -1,7 +1,15 @@
 # Rupeswarbhains777
-I'm Rupeswar Bhainsa, a Computer Science graduate with a passion for Web and App development.
 <h1 align="center">Hi 👋, I'm Rupeswae</h1>
-<h3 align="center">A passionate for Web and App developer</h3>
+
+Hi there! I'm a passionate developer with expertise in both front-end and back-end technologies. My skill set includes:
+
+Java: Building robust, scalable applications and backend systems.
+
+SQL: Designing and managing relational databases for efficient data storage and retrieval.
+
+HTML & CSS: Crafting clean, responsive, and visually appealing user interfaces.
+
+JavaScript: Creating dynamic and interactive web experiences.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeswarbhainsa777&label=Profile%20views&color=0e75b6&style=flat" alt="rupeswarbhainsa777" /> </p>
 
