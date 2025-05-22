@@ -5,7 +5,12 @@
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
-- 💬 Ask me about **Hi there! I'm a passionate developer with expertise in both front-end and back-end technologies. My skill set includes: Java: Building robust, scalable applications and backend systems. SQL: Designing and managing relational databases for efficient data storage and retrieval. HTML & CSS: Crafting clean, responsive, and visually appealing user interfaces. JavaScript: Creating dynamic and interactive web experiences. I love solving problems, learning new technologies, and collaborating on innovative projects. Feel free to explore my repositories to see my work in action!**
+- 💬 Ask me about **Hi there! I'm a passionate developer with expertise in both front-end and back-end technologies.
+- My skill set includes: Java: Building robust, scalable applications and backend systems.
+-  SQL: Designing and managing relational databases for efficient data storage and retrieval.
+-   HTML & CSS: Crafting clean, responsive, and visually appealing user interfaces. JavaScript: Creating dynamic and interactive web experiences.
+-   I love solving problems, learning new technologies, and collaborating on innovative projects.
+-    Feel free to explore my repositories to see my work in action!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
