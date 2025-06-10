@@ -31,8 +31,8 @@
 <p align="left">
   <!-- Add your social links here -->
   <!-- Example: -->
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/rupeswar-bhainsa-2b98b7227/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/></a>
+  <a href="mailto:rupeswarbhainsa777@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email"/></a>
 </p>
 
 ---
