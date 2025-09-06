@@ -20,9 +20,7 @@ I'm a dedicated full-stack developer passionate about building efficient, scalab
 - 🚀 **Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript, React  
 - 🛠️ **Tools I Use:** Git, Figma, VS Code  
 - 🎯 **Interests:** Web & Mobile Development, API Design, UI/UX  
-- 🌱 **Currently Learning:** Spring Boot & React Native  
-- 💬 **Ask Me About:** Backend development with Java, Full-Stack apps, Responsive UI  
-
+- 🌱 **Currently Learning:** Spring Boot & React Native  and 
 ---
 
 ## 🌐 Connect with Me
