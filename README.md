@@ -23,8 +23,6 @@
 - 🛠️ **Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript, React  
 - ⚡ **Tools I Use:** Git, Figma, VS Code  
 - 🎯 **Interests:** Web & Mobile Development, API Design, UI/UX  
-- 🌱 **Currently Learning:** Spring Boot & React Native  
-
 ---
 
 ## 🌐 Connect with Me  
