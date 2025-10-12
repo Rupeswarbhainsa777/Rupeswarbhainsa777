@@ -1,7 +1,5 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#ff79c6;">Rupeswar</span>
-</h1>
-<h3 align="center">💻 Passionate Web & App Developer</h3>
+<h1 align="center">👋 Hi there, I'm <span style="color:#ff79c6;">Rupeswar Bhainsa</span></h1>
+<h3 align="center">💻 Passionate Web & App Developer | Java & React Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rupeswarbhainsa777&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
@@ -17,23 +15,30 @@
 
 ## 💡 About Me  
 
-✨ Dedicated **Full-Stack Developer** passionate about building efficient, scalable, and user-friendly applications.  
-🚀 Skilled in modern frameworks & tools with a focus on **clean code** and **problem-solving**.  
+✨ A dedicated **Full-Stack Developer** passionate about creating seamless, scalable, and high-performing applications.  
+🚀 Skilled in **Java, Spring Boot, and React**, with a strong eye for **clean UI design** and **efficient backend systems**.  
+💬 Always curious to learn new technologies and improve problem-solving skills.
 
-- 🛠️ **Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript, React  
-- ⚡ **Tools I Use:** Git, Figma, VS Code  
-- 🎯 **Interests:** Web & Mobile Development, API Design, UI/UX  
+### 🧩 What I Do
+- 🛠️ **Tech Stack:** Java · Spring Boot · MySQL · HTML · CSS · JavaScript · React  
+- ⚙️ **Tools I Use:** Git · Figma · VS Code  
+- 🎯 **Interests:** Web & Mobile App Development · API Design · UI/UX  
+
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupeswar-bhainsa-2b98b7227/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:rupeswarbhainsa777@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rupeswarbhainsa777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/rupeswarbhainsa777">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -58,7 +63,7 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeswarbhainsa777&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=rupeswarbhainsa777&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeswarbhainsa777&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
@@ -76,5 +81,10 @@
 
 ---
 
+## ⚡ Fun Fact  
+🎮 When I'm not coding, I love exploring new tech tools, designing UIs, and improving app performance.
 
+---
 
+⭐️ **“Code. Create. Contribute.”**  
+<p align="center">If you like my work, consider giving a ⭐ to my repositories!</p>
