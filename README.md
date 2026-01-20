@@ -1,64 +1,80 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#ff79c6;">Rupeswar Bhainsa</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | Java & React Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#ff79c6;">Rupeswar Bhainsa</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | Java • Spring Boot • React</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rupeswarbhainsa777&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rupeswarbhainsa777&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rupeswarbhainsa777&theme=radical&margin-w=15&margin-h=15&row=1&no-frame=true" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rupeswarbhainsa777&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
 
-## 💡 About Me  
+## 👨‍💻 About Me  
 
-I am a dedicated **Full-Stack Developer** focused on building seamless, scalable applications. My expertise lies in bridging the gap between robust backend logic (**Java/Spring Boot**) and intuitive frontend experiences (**React**).
+I’m a **Full-Stack Developer** passionate about building **scalable backend systems** and **clean, responsive user interfaces**.  
+I enjoy turning complex problems into simple, maintainable solutions.
 
-- 🔭 **I’m currently working on:** Enhancing scalable microservices with Spring Boot.
-- 🌱 **I’m currently learning:** Cloud Deployment (AWS) and Advanced UI Patterns.
-- 💬 **Ask me about:** Java, React, and Database Optimization.
-- ⚡ **Fun Fact:** I spend as much time perfecting the UI spacing as I do writing the logic.
+- 🔭 **Currently working on:** Java & Spring Boot based backend systems  
+- 🌱 **Currently learning:** AWS, System Design & Advanced React Patterns  
+- 💬 **Ask me about:** Java, Spring Boot, React, REST APIs, SQL  
+- ⚡ **Fun fact:** I care about clean code and pixel-perfect UI equally 😄  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack  
 
-### 🌐 Frontend & Design
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" />
+### 🌐 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 </p>
 
 ### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring Boot" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📌 Featured Projects  
+
+- 🛒 **Food Ordering Application** – Java, MySQL, DAO Pattern  
+- 📦 **Amazon Clone** – HTML, CSS, JavaScript  
+- ✅ **To-Do List App** – JavaScript  
+- 🎮 **Tic-Tac-Toe Game** – JavaScript  
+
+👉 *Check pinned repositories below for live demos & source code.*
+
+---
+
+## 📈 GitHub Activity  
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupeswarbhainsa777&bg_color=0d1117&color=ffffff&line=ff79c6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeswarbhainsa777&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeswarbhainsa777&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rupeswarbhainsa777&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeswarbhainsa777&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeswarbhainsa777&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeswarbhainsa777&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupeswar-bhainsa-2b98b7227/" target="_blank">
@@ -72,4 +88,4 @@ I am a dedicated **Full-Stack Developer** focused on building seamless, scalable
   </a>
 </p>
 
-<p align="center">⭐️ <b>“Code. Create. Contribute.”</b></p>
+<p align="center"><b>⭐ Code. Build. Improve. Repeat.</b></p>
