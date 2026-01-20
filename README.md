@@ -44,16 +44,7 @@ I enjoy turning complex problems into simple, maintainable solutions.
 
 ---
 
-## 📌 Featured Projects  
 
-- 🛒 **Food Ordering Application** – Java, MySQL, DAO Pattern  
-- 📦 **Amazon Clone** – HTML, CSS, JavaScript  
-- ✅ **To-Do List App** – JavaScript  
-- 🎮 **Tic-Tac-Toe Game** – JavaScript  
-
-👉 *Check pinned repositories below for live demos & source code.*
-
----
 
 ## 📈 GitHub Activity  
 
