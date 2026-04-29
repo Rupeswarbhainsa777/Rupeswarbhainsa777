@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rupeswar%20Bhainsa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:1e1b4b,100:0f0c29&height=200&section=header&text=Rupeswar%20Bhainsa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React.js&descAlignY=58&descSize=17&descColor=a78bfa" />
 
-<!-- Profile views + social badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=rupeswarbhainsa777&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/rupeswar-bhainsa-2b98b7227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -20,8 +22,7 @@
   </a>
 </p>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=rupeswarbhainsa777&theme=discord&no-frame=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=rupeswarbhainsa777&theme=discord&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
@@ -31,38 +32,65 @@
 
 ```java
 public class Rupeswar {
-    String role       = "Full-Stack Developer";
-    String[] stack    = {"Java", "Spring Boot", "React.js", "MySQL", "MongoDB"};
-    String location   = "Jharsuguda, Odisha, India";
-    String learning   = "AWS · System Design · Advanced React Patterns";
-    String goal       = "Build scalable, secure, high-performance web applications";
-    boolean openToWork = true;
+
+    String   role      = "Full-Stack Developer";
+    String[] stack     = { "Java", "Spring Boot", "React.js", "MySQL", "MongoDB" };
+    String   location  = "Jharsuguda, Odisha, India";
+    String   learning  = "AWS · System Design · Advanced React Patterns";
+    String   goal      = "Build scalable, secure, high-performance web apps";
+    boolean  openToWork = true;
+
+    // Currently building → Java & Spring Boot microservice systems
+    // Security focus  → JWT Auth · Spring Security · JPA/Hibernate
+    // Fun fact        → Clean code + pixel-perfect UI = non-negotiable
 }
 ```
-
-- 🔭 Currently building **Java & Spring Boot** based microservice systems
-- 🌱 Levelling up in **AWS, System Design & Advanced React**
-- 🛡️ Experienced with **JWT auth, Spring Security, JPA/Hibernate**
-- ⚡ Fun fact: I care about clean code and pixel-perfect UI equally
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,figma&theme=dark" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,postman,vscode,intellij&theme=dark" />
-</p>
+### 🗄️ Databases & DevTools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### ☁️ Currently Learning
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-7C3AED?style=for-the-badge&logo=blueprint&logoColor=white)
+![Advanced React](https://img.shields.io/badge/Advanced%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| # | Project | Stack | Highlights |
+|---|---------|-------|------------|
+| 🏍️ | **Bike Details Management System** | Spring Boot · React.js · MySQL | JWT Auth · REST APIs · **30% faster queries** · Vercel deploy |
+| 💼 | **Job Application Management System** | Spring Boot · MySQL · JUnit | Role-based access · JWT · **25% faster API response** · Unit tested |
+| 🛒 | **E-commerce Backend Platform** | Spring Boot · MySQL | Modular microservices · Cart & Order APIs · Admin/User roles |
+
+</div>
 
 ---
 
@@ -81,34 +109,34 @@ public class Rupeswar {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeswarbhainsa777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeswarbhainsa777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rupeswarbhainsa777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeswarbhainsa777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeswarbhainsa777&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeswarbhainsa777&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupeswarbhainsa777&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-| Project | Tech Stack | Highlights |
-|---|---|---|
-| 🏍️ **Bike Details Management System** | Spring Boot, React.js, MySQL | JWT Auth · REST APIs · 30% faster queries · Vercel deploy |
-| 💼 **Job Application Management System** | Spring Boot, MySQL | Role-based access · JWT · 25% faster API response · JUnit tests |
-| 🛒 **E-commerce Backend Platform** | Spring Boot, MySQL | Modular microservices · Cart & Order APIs · Admin/User roles |
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupeswarbhainsa777&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e1b4b,100:0a0a12&height=100&section=footer&animation=fadeIn" />
+
+*"Clean code, pixel-perfect UI — never a compromise."*
+
+</div>
