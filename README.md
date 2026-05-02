@@ -39,10 +39,7 @@ public class Rupeswar {
     String   learning  = "AWS · System Design · Advanced React Patterns";
     String   goal      = "Build scalable, secure, high-performance web apps";
     boolean  openToWork = true;
-
-    // Currently building → Java & Spring Boot microservice systems
-    // Security focus  → JWT Auth · Spring Security · JPA/Hibernate
-    // Fun fact        → Clean code + pixel-perfect UI = non-negotiable
+  
 }
 ```
 
