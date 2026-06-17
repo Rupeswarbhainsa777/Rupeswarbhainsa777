@@ -245,14 +245,4 @@ public class Rupeswar {
 
 </div>
 
-<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e1b4b,100:0a0a12&height=120&section=footer&animation=fadeIn&fontColor=a78bfa&fontSize=14&text=Thanks%20for%20visiting!%20⭐%20Star%20a%20repo%20if%20you%20like%20my%20work&fontAlignY=65" width="100%" />
-
-<br/>
-
-*"Clean code · Pixel-perfect UI · Intelligent agents — never a compromise."*
-
-</div>
