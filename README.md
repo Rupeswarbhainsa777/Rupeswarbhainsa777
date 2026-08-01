@@ -170,10 +170,3 @@ public class RupeswarBhainsa {
 
 ---
 
-<div align="center">
-
-### ⭐ Building scalable applications and AI-powered solutions
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:312e81&height=120&section=footer"/>
-
-</div>
