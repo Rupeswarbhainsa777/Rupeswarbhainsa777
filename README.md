@@ -36,15 +36,15 @@ public class RupeswarBhainsa {
     private final String location = "Odisha, India 🇮🇳";
     private final boolean openToWork = true;
 
-    private final String[] backend  = {"Java", "Spring Boot", "Spring Security", "REST APIs"};
-    private final String[] frontend = {"React.js", "TypeScript", "JavaScript", "Tailwind CSS"};
+    private final String[] backend   = {"Java", "Spring Boot", "Spring Security", "REST APIs"};
+    private final String[] frontend  = {"React.js", "TypeScript", "JavaScript", "Tailwind CSS"};
     private final String[] databases = {"MySQL", "PostgreSQL", "MongoDB"};
-    private final String[] ai = {"LangChain", "OpenAI", "Claude API", "RAG", "MCP"};
+    private final String[] ai        = {"LangChain", "OpenAI", "Claude API", "RAG", "MCP"};
 
     private final String currentlyLearning = "AWS • System Design • Agentic AI";
 
-    public String[] funFact() {
-        return new String[]{ "I debug life the same way I debug code — one breakpoint at a time." };
+    public String funFact() {
+        return "I debug life the same way I debug code — one breakpoint at a time.";
     }
 }
 ```
@@ -96,12 +96,12 @@ public class RupeswarBhainsa {
 
 | Project | Tech Stack | Highlights |
 |---|---|---|
-| 🚴 **[Bike Details Management System](https://github.com/rupeswarbhainsa777)** | Spring Boot, React, TypeScript, MySQL | JWT authentication • REST APIs • deployed on Vercel |
-| 💼 **[Job Application Management System](https://github.com/rupeswarbhainsa777)** | Spring Boot, MySQL, JUnit | Role-based access control • JWT • unit tested |
-| 🛒 **[E-Commerce Backend Platform](https://github.com/rupeswarbhainsa777)** | Spring Boot, MySQL | Cart & order APIs • admin/user roles |
-| 🤖 **[AI Assistant](https://github.com/rupeswarbhainsa777)** | TypeScript, LangChain, Claude API | Tool calling • RAG pipeline • multi-step reasoning |
+| 🚴 **[Bike Details Management System](https://github.com/rupeswarbhainsa777/bike-details-management-system)** | Spring Boot, React, TypeScript, MySQL | JWT authentication • REST APIs • deployed on Vercel |
+| 💼 **[Job Application Management System](https://github.com/rupeswarbhainsa777/job-application-management-system)** | Spring Boot, MySQL, JUnit | Role-based access control • JWT • unit tested |
+| 🛒 **[E-Commerce Backend Platform](https://github.com/rupeswarbhainsa777/ecommerce-backend-platform)** | Spring Boot, MySQL | Cart & order APIs • admin/user roles |
+| 🤖 **[AI Assistant](https://github.com/rupeswarbhainsa777/ai-assistant)** | TypeScript, LangChain, Claude API | Tool calling • RAG pipeline • multi-step reasoning |
 
-> 💡 Tip: replace the placeholder links above with your actual repo URLs so recruiters can click straight through.
+<sub>⚠️ Update these repo links to your actual project URLs.</sub>
 
 <br/>
 
