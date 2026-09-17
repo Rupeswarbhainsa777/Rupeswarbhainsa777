@@ -137,27 +137,3 @@ public class RupeswarBhainsa {
 </div>
 
 <br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupeswarbhainsa777/rupeswarbhainsa777/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupeswarbhainsa777/rupeswarbhainsa777/output/github-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/rupeswarbhainsa777/rupeswarbhainsa777/output/github-snake-dark.svg">
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-I'm actively looking for **Full-Stack / Backend Developer** roles — feel free to reach out!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=100&section=footer"/>
-
-</div>
